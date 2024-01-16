@@ -1,0 +1,9 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"NoesisBlueprint": "UnrealEditor-NoesisBlueprint.dll",
+		"NoesisEditor": "UnrealEditor-NoesisEditor.dll",
+		"NoesisRuntime": "UnrealEditor-NoesisRuntime.dll"
+	}
+}
